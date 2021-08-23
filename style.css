@@ -1,0 +1,108 @@
+#backgrnd{
+    background-image: url(images/rest\ caer\ back.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* main */
+.main{
+    background-color: antiquewhite;
+}
+.card{
+    align-items: center;
+    /* background-color: antiquewhite; */
+
+}
+
+.btn{
+    background-color: rgb(240, 141, 20);
+}
+.btn:hover{
+    background-color: rgb(240, 141, 20);
+    transform: scale(1.1);
+}
+.logo{
+    /* padding-left: 60px; */
+    /* margin-left: 40px; */
+    position: absolute;
+    top: 10px;
+    right: 160px;
+}
+
+
+/* signup */
+.ressignup{
+    background-image: url("images/user.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    
+}
+#log111{
+    
+
+    width: 500px;
+    margin-left: 35%;
+
+    }
+    #email, #password, #username, #phoneno, #country, #city, #restaurentname{
+        height: 2rem;
+    background-color: rgba(238, 223, 223, 0.685);
+    }
+
+
+    .creatre{
+      color: rgb(255, 255, 255);
+    }
+    .head{
+font-size: 47px; 
+color: rgb(255, 255, 255);
+
+}
+.already{
+    color: brown;
+}
+
+/* dash restaurant */
+
+
+#leftside1{
+    background-color: rgba(170, 211, 130, 0.459);
+}
+#leftside2{
+    background-color: rgba(133, 172, 96, 0.466);
+}
+
+#leftside3{
+    background-color: rgba(219, 143, 107, 0.466);
+}
+
+nav{
+    background-color: rgba(122, 11, 11, 0.616) !important; 
+}
+
+
+
+/* restaurant */
+
+
+#dashbutton{
+    margin-left: 90rem;
+    margin-top: 10px;
+}
+.cat_deliver_button{
+    margin-top: -20rem;
+    margin-left: 4px;
+}
+
+/* user */
+
+#mainuser{
+    /* background-image:url(images/user\ back.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+
+background-color: rgba(222, 184, 135, 0.609);
+
+}
